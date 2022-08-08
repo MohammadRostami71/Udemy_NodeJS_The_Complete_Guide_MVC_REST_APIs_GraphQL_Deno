@@ -1,0 +1,6 @@
+
+*.xml
+*.iml
+.gitattributes
+.idea
+/node_modules/
